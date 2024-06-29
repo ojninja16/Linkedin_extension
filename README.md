@@ -35,5 +35,4 @@ pnpm build
 # or
 npm run build
 ```
-
-This should create a production bundle for your extension, ready to be zipped and published to the stores.
+### Video Demonstration:- https://drive.google.com/file/d/1HdxFR4HlT3s7Bk7HQPRpaDfSqm2gpycf/view?usp=sharing
